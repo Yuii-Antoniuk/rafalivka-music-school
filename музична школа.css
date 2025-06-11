@@ -1,0 +1,131 @@
+* {
+    margin: 0px;
+}
+
+body {
+    height: 727px;
+    border-bottom: 5px solid black;
+}
+
+#header {
+    width: 100%;
+    height: 100px;
+    background: black;
+    text-align: center;
+    line-height: 100px;
+    border-bottom: 5px solid black;
+}
+#h1 {
+    color: white;
+}
+
+.m {
+    width: 200px;
+    height: 623px;
+    border: 5px solid black;
+    border-top: 0;
+    border-right-color: black;
+    float: left;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+
+.m1 {
+    width: 200px;
+    height: 100px;
+    border-top: 0;
+    border-bottom: 5px solid black;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.m2 {
+    width: 200px;
+    height: 100px;
+    border-top: 0;
+    border-bottom: 5px solid black;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.m3 {
+    width: 200px;
+    height: 100px;
+    border-top: 0;
+    border-bottom: 5px solid black;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.m4 {
+    width: 200px;
+    height: 100px;
+    border-top: 0;
+    border-bottom: 5px solid black;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.m5 {
+    width: 200px;
+    height: 100px;
+    border-top: 0;
+    border-bottom: 5px solid black;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.m6 {
+    width: 200px;
+    height: 100px;
+    border-top: 0;
+    border-bottom: 5px solid black;
+    margin-bottom: 0px;
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+#img1 {
+    width: 200px;
+    border-right: 5px;
+}
+
+#img2 {
+    width: 100px;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    position: fixed;
+}
+
+G {
+    width: 1px;
+    height:200px;
+}
+
+#footer {
+    border: 1px solid black;
+}
